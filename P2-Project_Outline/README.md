@@ -26,7 +26,7 @@ to guard against the types of abuses that are rampant in some customer feedback 
 Get Rebate:  Customer can access a rebate code for participating businesses after completing 2 transactions and writing 2 reviews.
 This should help to promote customer loyalty and repeat business.
 
-Business Opt-out:  Functionality allows business owners themselves to out of participation
+Business Opt-out:  Functionality allows business owners themselves to opt out of participation
 in the service as desired, and at no cost.
 
 ### Technologies

@@ -17,14 +17,14 @@ often-disenfranchised or overlooked groups within their communities.
 ### Features
 Search:  User/potential customer can do a word search of the site for a needed good or service.
 
-Customer Login:  Customer uses discrete user identity to log in, create a profile page, and write reviews.
+List: Lists businesses by tag, location, search, category, etc.
 
-Generate Transaction Code:  The customer, having completed a transaction with their chosen business, receives a code
-which allows them access to a feedback form for that particular business. This will hopefully help
-to guard against the types of abuses that are rampant in some customer feedback systems.
+Customer Login:  Customer uses discrete user identity to log in, create a profile page, pass on recommendations,
+and save favored businesses.
 
-Get Rebate:  Customer can access a rebate code for participating businesses after completing 2 transactions and writing 2 reviews.
-This should help to promote customer loyalty and repeat business.
+Customer Portal:  Facilitate requests for listing of businesses, interactions with clients 
+
+Admin Portal:  Ability to make changes to various aspects of the business profile
 
 Business Opt-out:  Functionality allows business owners themselves to opt out of participation
 in the service as desired, and at no cost.
@@ -36,8 +36,8 @@ MySQL
 Hibernate
 Thymeleaf templates
 
-### What I'll Have to Learn
-Integration of Google My Business API
+### What We'll Have to Learn
+Integration of Google My Business API, Google Maps API
 
 ### Project Tracker
 https://trello.com/b/8BU12tAh/team-logan-stl-liftoff-project

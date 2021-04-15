@@ -25,3 +25,4 @@ https://trello.com/b/Son3IayO/liftoff-group-project
 ### Project Repo Link
 
 Include a link to your project on GitHub.
+https://github.com/SMHadley/liftoff-assignments/tree/master/P3-Project_Planning

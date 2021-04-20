@@ -10,10 +10,10 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 <ul>
-    <li>Wireframe_Login_Signup.jpg</li>
-    <li>Wireframe_Main.jpg</li>
-    <li>Wireframe_Map_View.jpg</li>
-    <li>Wireframe_View-Profile.jpg</li>
+    <li><a href="Wireframe_Login_Signup.jpg"></a></li>
+    <li><a href="Wireframe_Main.jpg"></a></li>
+    <li><a href="Wireframe_Map_View.jpg"></a></li>
+    <li><a href="Wireframe_View-Profile.jpg"></a></li>
 </ul>
 
 ### Project Tracker 

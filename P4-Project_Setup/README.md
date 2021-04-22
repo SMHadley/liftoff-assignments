@@ -11,8 +11,5 @@ Change this text with a link to your project repository here. Also add a README.
 <<<<<<< HEAD
 [GitHub NeighborGoods Project](https://github.com/las5h4/neighborgoods)
 
-=======
-[GitHub](https://github.com/las5h4/neighborgoods)
-<https://github.com/las5h4/neighborgoods>
->>>>>>> fcb12d928d7185770bf8abb75563189f7bce6cab
+
 
